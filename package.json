@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@types/node": "^22.5.5",
+    "axios": "^1.7.7",
+    "chalk": "^5.3.0",
+    "cli-progress": "^3.12.0",
+    "jsdom": "^25.0.0",
+    "linkedom": "^0.18.4",
+    "ts-progress": "^0.1.9"
+  }
+}
