@@ -6,6 +6,7 @@
     "cli-progress": "^3.12.0",
     "jsdom": "^25.0.0",
     "linkedom": "^0.18.4",
-    "ts-progress": "^0.1.9"
+    "ts-progress": "^0.1.9",
+    "youtube-transcript": "^1.2.1"
   }
 }
